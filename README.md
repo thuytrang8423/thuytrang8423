@@ -31,12 +31,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" height="60"/>
 </div>
-## ✨ Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miru-UwU&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=1F6DE0&area_color=1F6DE0&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ## 🌐 Connect & Animate
 
 <div align="center">
@@ -50,7 +44,6 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&animation=pulse" alt="Portfolio"/>
   </a>
 </div>
-
 ## 🎬 Coding Magic
 
 ```typescript
@@ -71,10 +64,6 @@ const miruCoding = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer"/>
-  
-  ![Profile Views](https://github.com/thuytrang8423)
-</div>
-```
 
 Key Enhancements for More Movement:
 1. Added animated waving capsule headers
