@@ -17,17 +17,17 @@ I'm a **Front-End Developer** passionate about transforming ideas into extraordi
 <div align="center">
   <h3>🌟 Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,python" width="100%" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" width="100%" alt="Languages"/>
   </p>
 
   <h3>🚀 Frameworks & Libraries</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,bootstrap" width="100%" alt="Frameworks"/>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" width="100%" alt="Frameworks"/>
   </p>
 
   <h3>🔧 Tools & Platforms</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,figma,docker" width="100%" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" width="100%" alt="Tools"/>
   </p>
 </div>
 
