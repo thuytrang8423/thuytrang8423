@@ -35,7 +35,7 @@
 ## 🔥 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miru-UwU&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=58A6FF&text_color=C3D1D9&title_color=58A6FF" height="180em" alt="GitHub Stats"/>
+  <img src="https://work-clock-theta.vercel.app/api?username=Miru-UwU&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=58A6FF&text_color=C3D1D9&title_color=58A6FF" height="180em" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miru-UwU&layout=compact&theme=radical&bg_color=0D1117&text_color=C3D1D9&title_color=58A6FF" height="180em" alt="Top Languages"/>
 </div>
 
