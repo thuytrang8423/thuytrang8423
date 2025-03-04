@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ahr4m0rkzBNhyRGBD/giphy.gif" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
+  <img src="[https://media.giphy.com/media/ahr4m0rkzBNhyRGBD/giphy.gif](https://giphy.com/gifs/cRHgphdnVZMtRLZlT1)" width="500" alt="Coding Animation" style="border-radius: 15px;"/>
 </div>
 
 ## 🌈 About Me
