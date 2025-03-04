@@ -65,19 +65,5 @@ const miruCoding = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer"/>
 
-Key Enhancements for More Movement:
-1. Added animated waving capsule headers
-2. Used theme-adaptive skill icons
-3. Implemented animated contribution graph
-4. Added dynamic GitHub stats with vibrant colors
-5. Created an animated typing effect for social badges
-6. Included a playful coding snippet with emoji
-7. Added profile view counter with animated style
-
-Highlights:
-- Dynamic color schemes
-- Animated sections
-- Visually engaging graphics
-- Responsive design
-
+"Code is poetry in motion" 💻✨
 Would you like me to further customize or explain any part of this README?
