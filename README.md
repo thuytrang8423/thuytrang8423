@@ -14,20 +14,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Miru%20UwU&fontSize=70&fontAlignY=40&desc=Front-End%20Developer&descAlignY=65&animation=scaleIn" alt="Profile Header"/>
 </div>
 
-## 🛠️ Tech Constellation
-
+## 🛠️ My Tech Universe
+💻 Languages
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,git,github,figma&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,git,github,figma">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,git,github,figma" alt="Tech Stack" width="100%">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" alt="Programming Languages" height="60"/>
 </div>
-
-## 💻 Coding Journey Visualization
-
+🚀 Frameworks & Libraries
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Miru-UwU&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="Frameworks" height="60"/>
+</div>
+🎨 Styling & UI
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,styledcomponents" alt="Styling Tools" height="60"/>
+</div>
+🔧 Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools" height="60"/>
 </div>
 
 ## 🔥 GitHub Metrics
