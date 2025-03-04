@@ -25,7 +25,7 @@
 </div>
 🎨 Styling & UI
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,styledcomponents" alt="Styling Tools" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" alt="Styling Tools" height="60"/>
 </div>
 🔧 Tools & Platforms
 <div align="center">
@@ -37,10 +37,10 @@
   <a href="https://linkedin.com/in/Miru-UwU" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=bounce" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/Miru-UwU" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=float" alt="Twitter"/>
+ <a href="https://www.facebook.com/miru.tan.261966" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://miru-uwu.github.io" target="_blank">
+  <a href="https://github.com/thuytrang8423" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white&animation=pulse" alt="Portfolio"/>
   </a>
 </div>
