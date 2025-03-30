@@ -66,4 +66,3 @@ const miruCoding = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer"/>
 
 "Code is poetry in motion" 💻✨
-Would you like me to further customize or explain any part of this README?
